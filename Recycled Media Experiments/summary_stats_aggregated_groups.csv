@@ -1,0 +1,13 @@
+Combined_Group,Media,Sample_Type,X_Axis_Time_Days,OD_mean,OD_p025,OD_p975,OD_p25,OD_p75
+No Glucose + Filtered Cyano,No Glucose,Filtered Cyano,0.0,0.06583333333333334,0.046,0.107375,0.04675,0.08425
+No Glucose + Filtered Cyano,No Glucose,Filtered Cyano,1.0,0.0715,0.065125,0.08587499999999999,0.0665,0.071
+No Glucose + Filtered Cyano,No Glucose,Filtered Cyano,2.0,0.08683333333333333,0.060250000000000005,0.111375,0.077,0.10225
+No Glucose + Filtered Cyano,No Glucose,Filtered Cyano,3.0,0.08816666666666667,0.050125,0.110875,0.06725,0.109
+No Glucose + Filtered Cyano,No Glucose,Filtered Cyano,4.0,0.06783333333333333,0.0365,0.0905,0.049,0.08449999999999999
+No Glucose + Filtered Cyano,No Glucose,Filtered Cyano,5.0,0.07683333333333332,0.05025,0.09375,0.0605,0.09075
+No Glucose + No Cyano,No Glucose,No Cyano,0.0,0.0525,0.049300000000000004,0.054,0.052,0.054
+No Glucose + No Cyano,No Glucose,No Cyano,1.0,0.05725,0.05515,0.058925,0.0565,0.05825
+No Glucose + No Cyano,No Glucose,No Cyano,2.0,0.09175,0.08515,0.097925,0.0865,0.09725
+No Glucose + No Cyano,No Glucose,No Cyano,3.0,0.10625,0.093975,0.11555,0.10275,0.1115
+No Glucose + No Cyano,No Glucose,No Cyano,4.0,0.08399999999999999,0.07415,0.09385,0.0755,0.0925
+No Glucose + No Cyano,No Glucose,No Cyano,5.0,0.12575,0.10845,0.14177499999999998,0.1125,0.13975
